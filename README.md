@@ -1,2 +1,2 @@
-# Expense-Tracker
-Expense Tracker using React
+# Python Project
+Real world use of python
